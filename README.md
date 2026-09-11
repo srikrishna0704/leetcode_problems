@@ -6,6 +6,7 @@ This repository is created to push my daily leetcode problems into github
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
 ## Dynamic Programming
 |  |
@@ -14,6 +15,7 @@ This repository is created to push my daily leetcode problems into github
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
@@ -22,5 +24,10 @@ This repository is created to push my daily leetcode problems into github
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
