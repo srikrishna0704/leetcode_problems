@@ -18,6 +18,7 @@ This repository is created to push my daily leetcode problems into github
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/srikrishna0704/leetcode_problems/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
@@ -27,6 +28,7 @@ This repository is created to push my daily leetcode problems into github
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/srikrishna0704/leetcode_problems/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -48,4 +50,12 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srikrishna0704/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/srikrishna0704/leetcode_problems/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/srikrishna0704/leetcode_problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
