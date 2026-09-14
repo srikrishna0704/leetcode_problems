@@ -9,6 +9,7 @@ This repository is created to push my daily leetcode problems into github
 | [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/srikrishna0704/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/srikrishna0704/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@ This repository is created to push my daily leetcode problems into github
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/srikrishna0704/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/srikrishna0704/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -67,4 +69,12 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/srikrishna0704/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/srikrishna0704/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
