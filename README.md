@@ -45,6 +45,7 @@ This repository is created to push my daily leetcode problems into github
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/srikrishna0704/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/srikrishna0704/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/srikrishna0704/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/srikrishna0704/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
@@ -67,11 +68,13 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/srikrishna0704/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/srikrishna0704/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/srikrishna0704/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
