@@ -22,6 +22,7 @@ This repository is created to push my daily leetcode problems into github
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/srikrishna0704/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0901-online-stock-span](https://github.com/srikrishna0704/leetcode_problems/tree/master/0901-online-stock-span) |
@@ -89,6 +90,7 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/srikrishna0704/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/srikrishna0704/leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/srikrishna0704/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -111,4 +113,8 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/srikrishna0704/leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/srikrishna0704/leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
