@@ -15,6 +15,7 @@ This repository is created to push my daily leetcode problems into github
 | [1004-max-consecutive-ones-iii](https://github.com/srikrishna0704/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/srikrishna0704/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srikrishna0704/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/srikrishna0704/leetcode_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
@@ -64,6 +65,7 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srikrishna0704/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/srikrishna0704/leetcode_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/2974-minimum-number-game) |
 ## Monotonic Queue
 |  |
@@ -126,5 +128,6 @@ This repository is created to push my daily leetcode problems into github
 ## Simulation
 |  |
 | ------- |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/srikrishna0704/leetcode_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
