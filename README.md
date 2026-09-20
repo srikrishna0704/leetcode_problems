@@ -95,6 +95,7 @@ This repository is created to push my daily leetcode problems into github
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/srikrishna0704/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/srikrishna0704/leetcode_problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/srikrishna0704/leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/srikrishna0704/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -112,6 +113,7 @@ This repository is created to push my daily leetcode problems into github
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srikrishna0704/leetcode_problems/tree/master/0067-add-binary) |
 | [1248-count-number-of-nice-subarrays](https://github.com/srikrishna0704/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
@@ -128,6 +130,11 @@ This repository is created to push my daily leetcode problems into github
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/srikrishna0704/leetcode_problems/tree/master/0067-add-binary) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/srikrishna0704/leetcode_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/2974-minimum-number-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/srikrishna0704/leetcode_problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
