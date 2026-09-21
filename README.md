@@ -8,6 +8,7 @@ This repository is created to push my daily leetcode problems into github
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0215-kth-largest-element-in-an-array](https://github.com/srikrishna0704/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/srikrishna0704/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/srikrishna0704/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srikrishna0704/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
@@ -64,6 +65,7 @@ This repository is created to push my daily leetcode problems into github
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/srikrishna0704/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/srikrishna0704/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/srikrishna0704/leetcode_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/2974-minimum-number-game) |
@@ -126,6 +128,7 @@ This repository is created to push my daily leetcode problems into github
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/srikrishna0704/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [2974-minimum-number-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -137,4 +140,12 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/srikrishna0704/leetcode_problems/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/srikrishna0704/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/srikrishna0704/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
