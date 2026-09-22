@@ -97,6 +97,7 @@ This repository is created to push my daily leetcode problems into github
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/srikrishna0704/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/srikrishna0704/leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/srikrishna0704/leetcode_problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/srikrishna0704/leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/srikrishna0704/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
