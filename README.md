@@ -6,6 +6,7 @@ This repository is created to push my daily leetcode problems into github
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/srikrishna0704/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -23,6 +24,7 @@ This repository is created to push my daily leetcode problems into github
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
 ## Stack
 |  |
@@ -167,6 +169,7 @@ This repository is created to push my daily leetcode problems into github
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/srikrishna0704/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/srikrishna0704/leetcode_problems/tree/master/0860-lemonade-change) |
 ## Quicksort
