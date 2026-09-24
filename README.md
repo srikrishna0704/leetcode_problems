@@ -10,6 +10,7 @@ This repository is created to push my daily leetcode problems into github
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/srikrishna0704/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/srikrishna0704/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [0455-assign-cookies](https://github.com/srikrishna0704/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0904-fruit-into-baskets](https://github.com/srikrishna0704/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srikrishna0704/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/srikrishna0704/leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -130,6 +131,7 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/srikrishna0704/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/srikrishna0704/leetcode_problems/tree/master/0455-assign-cookies) |
 | [2974-minimum-number-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -157,4 +159,16 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/srikrishna0704/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/srikrishna0704/leetcode_problems/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/srikrishna0704/leetcode_problems/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/srikrishna0704/leetcode_problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
