@@ -31,12 +31,14 @@ This repository is created to push my daily leetcode problems into github
 | [0055-jump-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/srikrishna0704/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/srikrishna0704/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srikrishna0704/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/srikrishna0704/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/srikrishna0704/leetcode_problems/tree/master/0901-online-stock-span) |
 ## Matrix
 |  |
@@ -111,6 +113,7 @@ This repository is created to push my daily leetcode problems into github
 | [0067-add-binary](https://github.com/srikrishna0704/leetcode_problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/srikrishna0704/leetcode_problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/srikrishna0704/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/srikrishna0704/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -137,6 +140,7 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srikrishna0704/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/srikrishna0704/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +187,7 @@ This repository is created to push my daily leetcode problems into github
 | [0055-jump-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/srikrishna0704/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/srikrishna0704/leetcode_problems/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/srikrishna0704/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/srikrishna0704/leetcode_problems/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srikrishna0704/leetcode_problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quicksort
