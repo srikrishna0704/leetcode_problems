@@ -6,6 +6,7 @@ This repository is created to push my daily leetcode problems into github
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/srikrishna0704/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/srikrishna0704/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/srikrishna0704/leetcode_problems/tree/master/0057-insert-interval) |
@@ -29,6 +30,7 @@ This repository is created to push my daily leetcode problems into github
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/srikrishna0704/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/srikrishna0704/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
@@ -185,6 +187,7 @@ This repository is created to push my daily leetcode problems into github
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/srikrishna0704/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/srikrishna0704/leetcode_problems/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/srikrishna0704/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
