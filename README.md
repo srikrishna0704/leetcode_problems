@@ -41,6 +41,7 @@ This repository is created to push my daily leetcode problems into github
 | [0020-valid-parentheses](https://github.com/srikrishna0704/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/srikrishna0704/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/srikrishna0704/leetcode_problems/tree/master/0901-online-stock-span) |
 ## Matrix
@@ -200,4 +201,16 @@ This repository is created to push my daily leetcode problems into github
 | ------- |
 | [0056-merge-intervals](https://github.com/srikrishna0704/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/srikrishna0704/leetcode_problems/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
