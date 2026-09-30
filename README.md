@@ -107,6 +107,7 @@ This repository is created to push my daily leetcode problems into github
 | [0424-longest-repeating-character-replacement](https://github.com/srikrishna0704/leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/srikrishna0704/leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srikrishna0704/leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/srikrishna0704/leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/srikrishna0704/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -154,6 +155,7 @@ This repository is created to push my daily leetcode problems into github
 | [0215-kth-largest-element-in-an-array](https://github.com/srikrishna0704/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/srikrishna0704/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/srikrishna0704/leetcode_problems/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srikrishna0704/leetcode_problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2974-minimum-number-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/2974-minimum-number-game) |
 ## Simulation
@@ -210,12 +212,14 @@ This repository is created to push my daily leetcode problems into github
 | [0102-binary-tree-level-order-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -223,8 +227,10 @@ This repository is created to push my daily leetcode problems into github
 | [0102-binary-tree-level-order-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
