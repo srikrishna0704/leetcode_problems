@@ -26,6 +26,7 @@ This repository is created to push my daily leetcode problems into github
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srikrishna0704/leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srikrishna0704/leetcode_problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/srikrishna0704/leetcode_problems/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2784-check-if-array-is-good](https://github.com/srikrishna0704/leetcode_problems/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/2974-minimum-number-game) |
 ## Dynamic Programming
 |  |
@@ -111,6 +112,7 @@ This repository is created to push my daily leetcode problems into github
 | [0992-subarrays-with-k-different-integers](https://github.com/srikrishna0704/leetcode_problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/srikrishna0704/leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srikrishna0704/leetcode_problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2784-check-if-array-is-good](https://github.com/srikrishna0704/leetcode_problems/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
@@ -157,6 +159,7 @@ This repository is created to push my daily leetcode problems into github
 | [0455-assign-cookies](https://github.com/srikrishna0704/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/srikrishna0704/leetcode_problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2784-check-if-array-is-good](https://github.com/srikrishna0704/leetcode_problems/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
