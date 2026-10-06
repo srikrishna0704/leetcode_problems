@@ -10,6 +10,7 @@ This repository is created to push my daily leetcode problems into github
 | [0055-jump-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/srikrishna0704/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/srikrishna0704/leetcode_problems/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/srikrishna0704/leetcode_problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srikrishna0704/leetcode_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/srikrishna0704/leetcode_problems/tree/master/0135-candy) |
@@ -171,6 +172,7 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/srikrishna0704/leetcode_problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/srikrishna0704/leetcode_problems/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -251,4 +253,8 @@ This repository is created to push my daily leetcode problems into github
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/srikrishna0704/leetcode_problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
