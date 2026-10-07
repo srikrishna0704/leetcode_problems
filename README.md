@@ -173,9 +173,11 @@ This repository is created to push my daily leetcode problems into github
 | ------- |
 | [0067-add-binary](https://github.com/srikrishna0704/leetcode_problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/srikrishna0704/leetcode_problems/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/srikrishna0704/leetcode_problems/tree/master/0191-number-of-1-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/srikrishna0704/leetcode_problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/srikrishna0704/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
