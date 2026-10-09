@@ -35,6 +35,7 @@ This repository is created to push my daily leetcode problems into github
 | [0045-jump-game-ii](https://github.com/srikrishna0704/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/srikrishna0704/leetcode_problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/srikrishna0704/leetcode_problems/tree/master/0085-maximal-rectangle) |
+| [0338-counting-bits](https://github.com/srikrishna0704/leetcode_problems/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/srikrishna0704/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/srikrishna0704/leetcode_problems/tree/master/0678-valid-parenthesis-string) |
 ## Stack
@@ -175,6 +176,7 @@ This repository is created to push my daily leetcode problems into github
 | [0078-subsets](https://github.com/srikrishna0704/leetcode_problems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/srikrishna0704/leetcode_problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/srikrishna0704/leetcode_problems/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/srikrishna0704/leetcode_problems/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
