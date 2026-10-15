@@ -131,6 +131,7 @@ This repository is created to push my daily leetcode problems into github
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/srikrishna0704/leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/srikrishna0704/leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -178,6 +179,7 @@ This repository is created to push my daily leetcode problems into github
 | [0078-subsets](https://github.com/srikrishna0704/leetcode_problems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/srikrishna0704/leetcode_problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/srikrishna0704/leetcode_problems/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/srikrishna0704/leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/srikrishna0704/leetcode_problems/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
@@ -230,6 +232,7 @@ This repository is created to push my daily leetcode problems into github
 | [0144-binary-tree-preorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/srikrishna0704/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/srikrishna0704/leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -262,6 +265,7 @@ This repository is created to push my daily leetcode problems into github
 | [0144-binary-tree-preorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srikrishna0704/leetcode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/srikrishna0704/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/srikrishna0704/leetcode_problems/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/srikrishna0704/leetcode_problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
